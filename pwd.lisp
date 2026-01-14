@@ -56,6 +56,13 @@
   :hnuid "susam"
   :bio "Creator of Emacs devil-mode.  Writes about technology and mathematics.")
 
+ (:name "Xe Iaso"
+  :site "https://xeiaso.net/"
+  :feed "https://xeiaso.net/blog.rss"
+  :blog "https://xeiaso.net/blog/"
+  :hnuid "xena"
+  :bio "Creator of Anubis.  Technical educator, conference speaker and Twitch streamer.")
+
  (:name "Author Name (first name and last name)"
   :site "https://example.com/"
   :feed "https://example.com/feed.xml"
