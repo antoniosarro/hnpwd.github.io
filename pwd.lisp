@@ -164,6 +164,14 @@
   :hnuid "zahlman"
   :bio "Tools developer and Python educator.")
 
+ (:name "Kevin Scott Dias"
+  :site "https://www.kevinsdias.com/"
+  :blog "https://www.kevinsdias.com/writing.html"
+  :feed "https://www.kevinsdias.com/feed.xml"
+  :about "https://www.kevinsdias.com/about.html"
+  :hnuid "diasks2"
+  :bio "Founder of Ambiki. Author of The Problem-First Method. Builds therapy software.")
+
  (:name "Kyle Ross"
   :site "https://ktross.com/"
   :feed "https://ktross.com/rss.xml"
