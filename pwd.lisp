@@ -22,6 +22,13 @@
   :hnuid "xorvoid"
   :bio "Writes about low-level programming and mathematics.")
 
+ (:name "Artyom Bologov"
+  :site "https://aartaka.me/"
+  :feed "https://aartaka.me/rss.xml"
+  :about "https://aartaka.me/about.html"
+  :hnuid "aartaka"
+  :bio "Writes about Lisp, ed(1) and the Web")
+
  (:name "Captain's Quarters"
   :site "https://quarters.captaintouch.com/"
   :feed "https://quarters.captaintouch.com/blog/posts.xml"
