@@ -86,6 +86,13 @@
   :hnuid "chrismorgan"
   :bio "Software developer, dealing mostly with web things.")
 
+ (:name "Ciju Cherian"
+  :site "https://ciju.in/"
+  :blog "https://ciju.in/writings/"
+  :feed "https://ciju.in/rss.xml"
+  :hnuid "ciju"
+  :bio "Building mental models around programming, finance and other topics.")
+
  (:name "Dennis Silin"
   :site "https://marscalendar.space"
   :about "https://marscalendar.space/about.html"
