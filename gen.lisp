@@ -284,12 +284,17 @@
 (defvar *main-mode* t
   "Run main function iff T.  Should be set to NIL in tests.")
 
+(defun validate-only-p (&optional (args (uiop:command-line-arguments)))
+  "Check if --validate-only flag was passed on command line."
+  (find "--validate-only" args :test #'string=))
+
 (defun main ()
   "Create artefacts."
   (let ((entries (read-entries)))
     (validate entries)
-    (write-file "pwd.opml" (make-opml entries))
-    (write-file "index.html" (make-html entries))))
+    (unless (validate-only-p)
+      (write-file "pwd.opml" (make-opml entries))
+      (write-file "index.html" (make-html entries)))))
 
 (when *main-mode*
   (main))

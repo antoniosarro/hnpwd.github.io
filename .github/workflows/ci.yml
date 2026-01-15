@@ -6,4 +6,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: sudo apt-get install sbcl
-      - run: sbcl --script gen.lisp
+      - run: sbcl --script gen.lisp --validate-only
