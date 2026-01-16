@@ -3,10 +3,10 @@
   <head>
     <title>HN Personal Websites</title>
     <dateCreated>Wed, 14 Jan 2026 00:00:00 UTC</dateCreated>
-    <dateModified>Fri, 16 Jan 2026 03:52:18 UTC</dateModified>
+    <dateModified>Fri, 16 Jan 2026 03:53:06 UTC</dateModified>
   </head>
   <body>
-    <!-- 58 entries -->
+    <!-- 59 entries -->
     <outline text="HN Personal Websites" title="HN Personal Websites">
       <outline type="rss" text="Aditya Athalye" title="Aditya Athalye" xmlUrl="https://www.evalapply.org/index.xml" htmlUrl="https://www.evalapply.org/"/>
       <outline type="rss" text="Alan Grow" title="Alan Grow" xmlUrl="https://alangrow.com/blog/atom.xml" htmlUrl="https://alangrow.com/"/>
@@ -30,6 +30,7 @@
       <outline type="rss" text="Dominic Mason" title="Dominic Mason" xmlUrl="https://domson.dev/atom.xml" htmlUrl="https://domson.dev/"/>
       <outline type="rss" text="Doug Slater" title="Doug Slater" xmlUrl="https://www.slater.dev/atom.xml" htmlUrl="https://www.slater.dev/"/>
       <outline type="rss" text="Dustin Brett" title="Dustin Brett" xmlUrl="https://dustinbrett.com/rss.xml" htmlUrl="https://dustinbrett.com/"/>
+      <outline type="rss" text="Ed Thomas" title="Ed Thomas" xmlUrl="https://ed-thomas.dev/rss.xml" htmlUrl="https://ed-thomas.dev/"/>
       <outline type="rss" text="Gavin D. Howard" title="Gavin D. Howard" xmlUrl="https://gavinhoward.com/index.xml" htmlUrl="https://gavinhoward.com/"/>
       <outline type="rss" text="Ian Reppel" title="Ian Reppel" xmlUrl="https://ianreppel.org/feed.xml" htmlUrl="https://ianreppel.org/"/>
       <outline type="rss" text="Ivar Abrahamsen" title="Ivar Abrahamsen" xmlUrl="https://blog.flurdy.com/feed.xml" htmlUrl="https://flurdy.com/"/>
